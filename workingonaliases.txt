@@ -1,0 +1,3 @@
+lol clear and ls
+cmds print bashrc nicely
+github cd to github
