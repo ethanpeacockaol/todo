@@ -1,0 +1,1 @@
+alias dexkill="tmux kill-server"
