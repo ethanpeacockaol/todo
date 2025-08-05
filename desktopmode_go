@@ -1,0 +1,7 @@
+tmux new -s windows
+echo hey there
+am start --user 0 -n com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity
+#tmux new -s windows
+#pd sh ubuntu --termux-home
+
+
